@@ -9,4 +9,4 @@ Contents:
 - play through three(3) different stages!
 - face against three(3) different enemies!
 
-**This is a Capstone Project**
+**This is a Capstone Project :3**
