@@ -1,0 +1,3635 @@
+fileFormatVersion: 2
+guid: 585ccf76722aa864c8759dc3e55889d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6016649707914270372
+    second: Walking Animation_0
+  - first:
+      213: -3145961372104026543
+    second: Walking Animation_1
+  - first:
+      213: 8279727690787391654
+    second: Walking Animation_2
+  - first:
+      213: 5604025215206421412
+    second: Walking Animation_3
+  - first:
+      213: -6761550235260416185
+    second: Walking Animation_4
+  - first:
+      213: -5558238887320663174
+    second: Walking Animation_5
+  - first:
+      213: -3086115041739033253
+    second: Walking Animation_6
+  - first:
+      213: -2280680924357214696
+    second: Walking Animation_7
+  - first:
+      213: -5163146030606858680
+    second: Walking Animation_8
+  - first:
+      213: -7476808582170592903
+    second: Walking Animation_9
+  - first:
+      213: 2212751408261086474
+    second: Walking Animation_10
+  - first:
+      213: -4206845281579915878
+    second: Walking Animation_11
+  - first:
+      213: -6912978784159865631
+    second: Walking Animation_12
+  - first:
+      213: -3752756260182301451
+    second: Walking Animation_13
+  - first:
+      213: -1445065906121513169
+    second: Walking Animation_14
+  - first:
+      213: 8099684828101929299
+    second: Walking Animation_15
+  - first:
+      213: 4227689682749126483
+    second: Walking Animation_16
+  - first:
+      213: 7872075465351307110
+    second: Walking Animation_17
+  - first:
+      213: 3745138588877513552
+    second: Walking Animation_18
+  - first:
+      213: -1492037219745595368
+    second: Walking Animation_19
+  - first:
+      213: 6497333384136673875
+    second: Walking Animation_20
+  - first:
+      213: 8030593247999493041
+    second: Walking Animation_21
+  - first:
+      213: -1152187659586119625
+    second: Walking Animation_22
+  - first:
+      213: -5642871683769743463
+    second: Walking Animation_23
+  - first:
+      213: -4885714210187070365
+    second: Walking Animation_24
+  - first:
+      213: 4951700897594923185
+    second: Walking Animation_25
+  - first:
+      213: 1845848810668551565
+    second: Walking Animation_26
+  - first:
+      213: 5454977746905154978
+    second: Walking Animation_27
+  - first:
+      213: 6609182588828931381
+    second: Walking Animation_28
+  - first:
+      213: -1800288053765407003
+    second: Walking Animation_29
+  - first:
+      213: 5089104776358221251
+    second: Walking Animation_30
+  - first:
+      213: 4103510075421190438
+    second: Walking Animation_31
+  - first:
+      213: -542987928453215362
+    second: Walking Animation_32
+  - first:
+      213: 4382831238025698525
+    second: Walking Animation_33
+  - first:
+      213: -3731023159796684942
+    second: Walking Animation_34
+  - first:
+      213: 8821938111159015246
+    second: Walking Animation_35
+  - first:
+      213: 2294495073506314506
+    second: Walking Animation_36
+  - first:
+      213: -7166445170690436095
+    second: Walking Animation_37
+  - first:
+      213: 5889035501089314268
+    second: Walking Animation_38
+  - first:
+      213: 5989802769698477869
+    second: Walking Animation_39
+  - first:
+      213: 1015009961736380338
+    second: Walking Animation_40
+  - first:
+      213: -465929559987857277
+    second: Walking Animation_41
+  - first:
+      213: 2231036149394119631
+    second: Walking Animation_42
+  - first:
+      213: 1994150032086702397
+    second: Walking Animation_43
+  - first:
+      213: -5158241041073306380
+    second: Walking Animation_44
+  - first:
+      213: 6328745048427866094
+    second: Walking Animation_45
+  - first:
+      213: 7979732211904845972
+    second: Walking Animation_46
+  - first:
+      213: -708790038280073237
+    second: Walking Animation_47
+  - first:
+      213: 5945951331730573739
+    second: Walking Animation_48
+  - first:
+      213: -8793799141686403574
+    second: Walking Animation_49
+  - first:
+      213: 8531787844383862761
+    second: Walking Animation_50
+  - first:
+      213: 7196840527294174996
+    second: Walking Animation_51
+  - first:
+      213: 1334716604635329957
+    second: Walking Animation_52
+  - first:
+      213: 2540949260251167682
+    second: Walking Animation_53
+  - first:
+      213: 8126064333443828546
+    second: Walking Animation_54
+  - first:
+      213: -2180587321363223403
+    second: Walking Animation_55
+  - first:
+      213: -703484495967949413
+    second: Walking Animation_56
+  - first:
+      213: 4094993939699336629
+    second: Walking Animation_57
+  - first:
+      213: 4455732275320291432
+    second: Walking Animation_58
+  - first:
+      213: -5301736116122600261
+    second: Walking Animation_59
+  - first:
+      213: -1320502136356728892
+    second: Walking Animation_60
+  - first:
+      213: 1500274830953205765
+    second: Walking Animation_61
+  - first:
+      213: 641282815446336940
+    second: Walking Animation_62
+  - first:
+      213: -3097055658851314067
+    second: Walking Animation_63
+  - first:
+      213: -4636230399963558352
+    second: Walking Animation_64
+  - first:
+      213: 9187289451161768284
+    second: Walking Animation_65
+  - first:
+      213: -7995837326050419654
+    second: Walking Animation_66
+  - first:
+      213: -3672665590768541769
+    second: Walking Animation_67
+  - first:
+      213: -8991571258409043795
+    second: Walking Animation_68
+  - first:
+      213: -1314105241003056628
+    second: Walking Animation_69
+  - first:
+      213: -8687312353531808578
+    second: Walking Animation_70
+  - first:
+      213: 1800070410259024253
+    second: Walking Animation_71
+  - first:
+      213: 6142951901635188986
+    second: Walking Animation_72
+  - first:
+      213: 6684794438088045553
+    second: Walking Animation_73
+  - first:
+      213: -4631739906784285996
+    second: Walking Animation_74
+  - first:
+      213: 619250541320007714
+    second: Walking Animation_75
+  - first:
+      213: 2269820985650488575
+    second: Walking Animation_76
+  - first:
+      213: -8939418907976866044
+    second: Walking Animation_77
+  - first:
+      213: 4209156469640600904
+    second: Walking Animation_78
+  - first:
+      213: 289511745461781897
+    second: Walking Animation_79
+  - first:
+      213: -4971015145571351918
+    second: Walking Animation_80
+  - first:
+      213: 6242220755078031698
+    second: Walking Animation_81
+  - first:
+      213: 4614853927579454521
+    second: Walking Animation_82
+  - first:
+      213: -7118794993095901927
+    second: Walking Animation_83
+  - first:
+      213: -4390070850068510488
+    second: Walking Animation_84
+  - first:
+      213: -3674921326958515445
+    second: Walking Animation_85
+  - first:
+      213: -5461125469981686583
+    second: Walking Animation_86
+  - first:
+      213: 7361449940280331138
+    second: Walking Animation_87
+  - first:
+      213: 6349677980204913310
+    second: Walking Animation_88
+  - first:
+      213: 1436196257016550457
+    second: Walking Animation_89
+  - first:
+      213: 2381937607357039639
+    second: Walking Animation_90
+  - first:
+      213: 4664881293855651197
+    second: Walking Animation_91
+  - first:
+      213: -3335337066933873622
+    second: Walking Animation_92
+  - first:
+      213: 7338999783973998185
+    second: Walking Animation_93
+  - first:
+      213: 1105522471579275363
+    second: Walking Animation_94
+  - first:
+      213: -4278261428363379318
+    second: Walking Animation_95
+  - first:
+      213: 6217191926633087542
+    second: Walking Animation_96
+  - first:
+      213: 5378729914151490950
+    second: Walking Animation_97
+  - first:
+      213: 8477535311924681600
+    second: Walking Animation_98
+  - first:
+      213: -6722773490179450513
+    second: Walking Animation_99
+  - first:
+      213: 6767199492354086751
+    second: Walking Animation_100
+  - first:
+      213: 1418938191697051654
+    second: Walking Animation_101
+  - first:
+      213: -7477973992531793740
+    second: Walking Animation_102
+  - first:
+      213: 7683169691419890374
+    second: Walking Animation_103
+  - first:
+      213: -1037354488021740245
+    second: Walking Animation_104
+  - first:
+      213: -6359105158529330148
+    second: Walking Animation_105
+  - first:
+      213: -129508822049162982
+    second: Walking Animation_106
+  - first:
+      213: -807759416264906772
+    second: Walking Animation_107
+  - first:
+      213: 6930934531442823478
+    second: Walking Animation_108
+  - first:
+      213: 9079902940576906624
+    second: Walking Animation_109
+  - first:
+      213: 3309860603573255252
+    second: Walking Animation_110
+  - first:
+      213: 4009583169629514204
+    second: Walking Animation_111
+  - first:
+      213: -1989564467432834103
+    second: Walking Animation_112
+  - first:
+      213: 2978712703756244858
+    second: Walking Animation_113
+  - first:
+      213: 5895594672736355018
+    second: Walking Animation_114
+  - first:
+      213: 5780317403968103419
+    second: Walking Animation_115
+  - first:
+      213: -535488205906562159
+    second: Walking Animation_116
+  - first:
+      213: 7662262165807014982
+    second: Walking Animation_117
+  - first:
+      213: -3711713192294470703
+    second: Walking Animation_118
+  - first:
+      213: 1672013302002279208
+    second: Walking Animation_119
+  - first:
+      213: 7597559392654642308
+    second: Walking Animation_120
+  - first:
+      213: -2116084888805904694
+    second: Walking Animation_121
+  - first:
+      213: 7743708425067417313
+    second: Walking Animation_122
+  - first:
+      213: -7627773703768527387
+    second: Walking Animation_123
+  - first:
+      213: 2649419213457148589
+    second: Walking Animation_124
+  - first:
+      213: 4479165503853325100
+    second: Walking Animation_125
+  - first:
+      213: -8877759026855396041
+    second: Walking Animation_126
+  - first:
+      213: 5834510250303094400
+    second: Walking Animation_127
+  - first:
+      213: -881900717549256851
+    second: Walking Animation_128
+  - first:
+      213: -4645489509589657377
+    second: Walking Animation_129
+  - first:
+      213: -7898398461160528558
+    second: Walking Animation_130
+  - first:
+      213: -5171974246529575951
+    second: Walking Animation_131
+  - first:
+      213: -335863287981600464
+    second: Walking Animation_132
+  - first:
+      213: -98715181644518859
+    second: Walking Animation_133
+  - first:
+      213: 4242636081381848749
+    second: Walking Animation_134
+  - first:
+      213: 2959065027267431282
+    second: Walking Animation_135
+  - first:
+      213: -6607889912206001798
+    second: Walking Animation_136
+  - first:
+      213: -7249695315061519310
+    second: Walking Animation_137
+  - first:
+      213: -2723169891627718131
+    second: Walking Animation_138
+  - first:
+      213: -3055045169214954852
+    second: Walking Animation_139
+  - first:
+      213: -1913575926233316480
+    second: Walking Animation_140
+  - first:
+      213: 6269574148928829002
+    second: Walking Animation_141
+  - first:
+      213: -7664962058515375081
+    second: Walking Animation_142
+  - first:
+      213: -8117698763461825454
+    second: Walking Animation_143
+  - first:
+      213: 4092603453359702418
+    second: Walking Animation_144
+  - first:
+      213: 8895964054303299811
+    second: Walking Animation_145
+  - first:
+      213: -5341191424161328701
+    second: Walking Animation_146
+  - first:
+      213: 1094779162642294365
+    second: Walking Animation_147
+  - first:
+      213: 2939969744082602581
+    second: Walking Animation_148
+  - first:
+      213: -6891837545143423036
+    second: Walking Animation_149
+  - first:
+      213: -1368695016575237890
+    second: Walking Animation_150
+  - first:
+      213: -5679423833354242628
+    second: Walking Animation_151
+  - first:
+      213: -4336567495410377649
+    second: Walking Animation_152
+  - first:
+      213: -1716557962743638872
+    second: Walking Animation_153
+  - first:
+      213: -8887881379332345100
+    second: Walking Animation_154
+  - first:
+      213: 3567758611690124780
+    second: Walking Animation_155
+  - first:
+      213: -7168805926303599482
+    second: Walking Animation_156
+  - first:
+      213: -6884305535176474645
+    second: Walking Animation_157
+  - first:
+      213: 293707119027870109
+    second: Walking Animation_158
+  - first:
+      213: -4111532812133790401
+    second: Walking Animation_159
+  - first:
+      213: 4652091068865123375
+    second: Walking Animation_160
+  - first:
+      213: -4833799288033928846
+    second: Walking Animation_161
+  - first:
+      213: 4578758485169669904
+    second: Walking Animation_162
+  - first:
+      213: -842617620652420212
+    second: Walking Animation_163
+  - first:
+      213: -5009974783699790448
+    second: Walking Animation_164
+  - first:
+      213: -3760542637847419590
+    second: Walking Animation_165
+  - first:
+      213: -6903576118713237797
+    second: Walking Animation_166
+  - first:
+      213: -3626515421911813102
+    second: Walking Animation_167
+  - first:
+      213: -4420412104385892763
+    second: Walking Animation_168
+  - first:
+      213: 8250070374770070860
+    second: Walking Animation_169
+  - first:
+      213: -793724525047002953
+    second: Walking Animation_170
+  - first:
+      213: -5730510698070626962
+    second: Walking Animation_171
+  - first:
+      213: -6550018258381294469
+    second: Walking Animation_172
+  - first:
+      213: -6438002330241623493
+    second: Walking Animation_173
+  - first:
+      213: -1450134072269232602
+    second: Walking Animation_174
+  - first:
+      213: -6779164707265387616
+    second: Walking Animation_175
+  - first:
+      213: 4958441047368281268
+    second: Walking Animation_176
+  - first:
+      213: 5495454641479119549
+    second: Walking Animation_177
+  - first:
+      213: 553475287323898733
+    second: Walking Animation_178
+  - first:
+      213: 6616970843746192093
+    second: Walking Animation_179
+  - first:
+      213: 5635690569568348517
+    second: Walking Animation_180
+  - first:
+      213: -6871852344587772219
+    second: Walking Animation_181
+  - first:
+      213: 6040003577641684259
+    second: Walking Animation_182
+  - first:
+      213: -3989988800858031148
+    second: Walking Animation_183
+  - first:
+      213: -7772820289648878583
+    second: Walking Animation_184
+  - first:
+      213: -2274646261896078701
+    second: Walking Animation_185
+  - first:
+      213: 7771550305884409146
+    second: Walking Animation_186
+  - first:
+      213: 3181157733375883216
+    second: Walking Animation_187
+  - first:
+      213: 2198159381734937567
+    second: Walking Animation_188
+  - first:
+      213: 6817095757126657999
+    second: Walking Animation_189
+  - first:
+      213: -1591168951039798575
+    second: Walking Animation_190
+  - first:
+      213: 8985735294185599615
+    second: Walking Animation_191
+  - first:
+      213: -3433537778542045643
+    second: Walking Animation_192
+  - first:
+      213: 6221198019211233791
+    second: Walking Animation_193
+  - first:
+      213: -6744250970525676512
+    second: Walking Animation_194
+  - first:
+      213: -71683958626742761
+    second: Walking Animation_195
+  - first:
+      213: 1156123527606416007
+    second: Walking Animation_196
+  - first:
+      213: 4913168325148488455
+    second: Walking Animation_197
+  - first:
+      213: 4364724019998932601
+    second: Walking Animation_198
+  - first:
+      213: -4628372220221772885
+    second: Walking Animation_199
+  - first:
+      213: -7139902445531421472
+    second: Walking Animation_200
+  - first:
+      213: 3275350589740847761
+    second: Walking Animation_201
+  - first:
+      213: 3149656401549421641
+    second: Walking Animation_202
+  - first:
+      213: -5788073479608340387
+    second: Walking Animation_203
+  - first:
+      213: 6216418935225057773
+    second: Walking Animation_204
+  - first:
+      213: 4203923970727761297
+    second: Walking Animation_205
+  - first:
+      213: -8214131164766634449
+    second: Walking Animation_206
+  - first:
+      213: -5109640090473078424
+    second: Walking Animation_207
+  - first:
+      213: 6869340248214982084
+    second: Walking Animation_208
+  - first:
+      213: 4495855406412256805
+    second: Walking Animation_209
+  - first:
+      213: -4149244078795975968
+    second: Walking Animation_210
+  - first:
+      213: -581924032159072233
+    second: Walking Animation_211
+  - first:
+      213: 3349972751233912442
+    second: Walking Animation_212
+  - first:
+      213: -8820597727215525126
+    second: Walking Animation_213
+  - first:
+      213: 3581601405327336148
+    second: Walking Animation_214
+  - first:
+      213: -711372548060238972
+    second: Walking Animation_215
+  - first:
+      213: 7052806141887625044
+    second: Walking Animation_216
+  - first:
+      213: -4045464787126298045
+    second: Walking Animation_217
+  - first:
+      213: -7753646072653800213
+    second: Walking Animation_218
+  - first:
+      213: 3263650727863104630
+    second: Walking Animation_219
+  - first:
+      213: 5692397171986123653
+    second: Walking Animation_220
+  - first:
+      213: -1570336672795924165
+    second: Walking Animation_221
+  - first:
+      213: 1747410790870710788
+    second: Walking Animation_222
+  - first:
+      213: 2110439975940812411
+    second: Walking Animation_223
+  - first:
+      213: 6262653592288929531
+    second: Walking Animation_224
+  - first:
+      213: 8179898785930302494
+    second: Walking Animation_225
+  - first:
+      213: 953646891003441339
+    second: Walking Animation_226
+  - first:
+      213: -204746822950103995
+    second: Walking Animation_227
+  - first:
+      213: 9019027545625253261
+    second: Walking Animation_228
+  - first:
+      213: -521020018531079682
+    second: Walking Animation_229
+  - first:
+      213: -6086248463786163569
+    second: Walking Animation_230
+  - first:
+      213: 4861026048951438260
+    second: Walking Animation_231
+  - first:
+      213: -2908970582730217637
+    second: Walking Animation_232
+  - first:
+      213: 3633105001764887454
+    second: Walking Animation_233
+  - first:
+      213: -3357266354575407484
+    second: Walking Animation_234
+  - first:
+      213: 3372693091407549288
+    second: Walking Animation_235
+  - first:
+      213: -7189635928231171136
+    second: Walking Animation_236
+  - first:
+      213: -6399960736895957113
+    second: Walking Animation_237
+  - first:
+      213: 73920425850554935
+    second: Walking Animation_238
+  - first:
+      213: 5648290917490100905
+    second: Walking Animation_239
+  - first:
+      213: 3798870883982909201
+    second: Walking Animation_240
+  - first:
+      213: 3965699882304497118
+    second: Walking Animation_241
+  - first:
+      213: 1139204825572663503
+    second: Walking Animation_242
+  - first:
+      213: -780923861268401919
+    second: Walking Animation_243
+  - first:
+      213: -8574788966961189772
+    second: Walking Animation_244
+  - first:
+      213: 6009184949615287567
+    second: Walking Animation_245
+  - first:
+      213: 4747233542913809123
+    second: Walking Animation_246
+  - first:
+      213: -5893038664077794658
+    second: Walking Animation_247
+  - first:
+      213: 7997472146792530326
+    second: Walking Animation_248
+  - first:
+      213: -2917624391780022035
+    second: Walking Animation_249
+  - first:
+      213: 6723313561565092309
+    second: Walking Animation_250
+  - first:
+      213: -527879486898084867
+    second: Walking Animation_251
+  - first:
+      213: 4066149827658015154
+    second: Walking Animation_252
+  - first:
+      213: -9057320521356685795
+    second: Walking Animation_253
+  - first:
+      213: 4852497419989164047
+    second: Walking Animation_254
+  - first:
+      213: 1035082239288913544
+    second: Walking Animation_255
+  - first:
+      213: -1394630302183451009
+    second: Walking Animation_256
+  - first:
+      213: -4200559274820529479
+    second: Walking Animation_257
+  - first:
+      213: 7276809580081363168
+    second: Walking Animation_258
+  - first:
+      213: -4447854764890045017
+    second: Walking Animation_259
+  - first:
+      213: 4826357408251990006
+    second: Walking Animation_260
+  - first:
+      213: 4499550114367351132
+    second: Walking Animation_261
+  - first:
+      213: -590191060625967822
+    second: Walking Animation_262
+  - first:
+      213: -4448191292225195826
+    second: Walking Animation_263
+  - first:
+      213: 8074791905217994831
+    second: Walking Animation_264
+  - first:
+      213: -3827265740305466268
+    second: Walking Animation_265
+  - first:
+      213: 1610929691298272981
+    second: Walking Animation_266
+  - first:
+      213: -2828300170838761620
+    second: Walking Animation_267
+  - first:
+      213: -7434642155279236525
+    second: Walking Animation_268
+  - first:
+      213: 524318682587765087
+    second: Walking Animation_269
+  - first:
+      213: -555100829008281078
+    second: Walking Animation_270
+  - first:
+      213: -5943533115699243499
+    second: Walking Animation_271
+  - first:
+      213: 4888525610632696594
+    second: Walking Animation_272
+  - first:
+      213: 2567454237685731871
+    second: Walking Animation_273
+  - first:
+      213: -7367186711849031257
+    second: Walking Animation_274
+  - first:
+      213: 8165277072585765758
+    second: Walking Animation_275
+  - first:
+      213: 4698691387195610989
+    second: Walking Animation_276
+  - first:
+      213: 1576298404623609887
+    second: Walking Animation_277
+  - first:
+      213: 9094039476568696409
+    second: Walking Animation_278
+  - first:
+      213: 5061158221410816402
+    second: Walking Animation_279
+  - first:
+      213: 6194598681704891185
+    second: Walking Animation_280
+  - first:
+      213: -2355569488558397068
+    second: Walking Animation_281
+  - first:
+      213: -7085257682423682177
+    second: Walking Animation_282
+  - first:
+      213: 7110772281678900890
+    second: Walking Animation_283
+  - first:
+      213: -6911181776477107933
+    second: Walking Animation_284
+  - first:
+      213: -7218093195620681304
+    second: Walking Animation_285
+  - first:
+      213: -9069304596142062036
+    second: Walking Animation_286
+  - first:
+      213: -7719720566221901000
+    second: Walking Animation_287
+  - first:
+      213: 7766535330909349520
+    second: Walking Animation_288
+  - first:
+      213: 5934561878671810927
+    second: Walking Animation_289
+  - first:
+      213: 4051457006604975984
+    second: Walking Animation_290
+  - first:
+      213: 5610826672174662814
+    second: Walking Animation_291
+  - first:
+      213: 6444451112062843085
+    second: Walking Animation_292
+  - first:
+      213: 6349795893977774722
+    second: Walking Animation_293
+  - first:
+      213: -8021739381837739641
+    second: Walking Animation_294
+  - first:
+      213: 4592172985629614141
+    second: Walking Animation_295
+  - first:
+      213: -7706845379516802074
+    second: Walking Animation_296
+  - first:
+      213: -4297699566538732836
+    second: Walking Animation_297
+  - first:
+      213: -4909012674424038646
+    second: Walking Animation_298
+  - first:
+      213: 3883678443746370477
+    second: Walking Animation_299
+  - first:
+      213: -5346913199296285703
+    second: Walking Animation_300
+  - first:
+      213: -5605265001474434262
+    second: Walking Animation_301
+  - first:
+      213: -4515966650116683038
+    second: Walking Animation_302
+  - first:
+      213: -2713896528311734667
+    second: Walking Animation_303
+  - first:
+      213: 3889636392643673310
+    second: Walking Animation_304
+  - first:
+      213: 7078485099182776714
+    second: Walking Animation_305
+  - first:
+      213: 4115071302213609827
+    second: Walking Animation_306
+  - first:
+      213: -6493543089570827998
+    second: Walking Animation_307
+  - first:
+      213: -8197872207986452544
+    second: Walking Animation_308
+  - first:
+      213: -3520751376265015948
+    second: Walking Animation_309
+  - first:
+      213: -518439747851022270
+    second: Walking Animation_310
+  - first:
+      213: -5219833097603853130
+    second: Walking Animation_311
+  - first:
+      213: -1168520039713215279
+    second: Walking Animation_312
+  - first:
+      213: -2849901631565387988
+    second: Walking Animation_313
+  - first:
+      213: 3201153357816813681
+    second: Walking Animation_314
+  - first:
+      213: 8324696141312931269
+    second: Walking Animation_315
+  - first:
+      213: 948618046201333364
+    second: Walking Animation_316
+  - first:
+      213: 8549618851154622204
+    second: Walking Animation_317
+  - first:
+      213: 8397292594538482183
+    second: Walking Animation_318
+  - first:
+      213: 7550980896338477837
+    second: Walking Animation_319
+  - first:
+      213: 5780985545811345676
+    second: Walking Animation_320
+  - first:
+      213: 3864642937877587805
+    second: Walking Animation_321
+  - first:
+      213: 171769071560210946
+    second: Walking Animation_322
+  - first:
+      213: -624800742068926887
+    second: Walking Animation_323
+  - first:
+      213: -7885802142711556157
+    second: Walking Animation_324
+  - first:
+      213: 3239491124821467215
+    second: Walking Animation_325
+  - first:
+      213: 8627888537483447740
+    second: Walking Animation_326
+  - first:
+      213: -6812470858881418909
+    second: Walking Animation_327
+  - first:
+      213: 3323884900254651420
+    second: Walking Animation_328
+  - first:
+      213: -7326964503792579212
+    second: Walking Animation_329
+  - first:
+      213: 4703411503226529380
+    second: Walking Animation_330
+  - first:
+      213: 8119479270647539354
+    second: Walking Animation_331
+  - first:
+      213: 7458045512681683715
+    second: Walking Animation_332
+  - first:
+      213: 6592421707864888786
+    second: Walking Animation_333
+  - first:
+      213: -1946607080099541851
+    second: Walking Animation_334
+  - first:
+      213: -7934087086338485031
+    second: Walking Animation_335
+  - first:
+      213: 1440446363404598971
+    second: Walking Animation_336
+  - first:
+      213: 6923063722033860341
+    second: Walking Animation_337
+  - first:
+      213: -1692325475497695473
+    second: Walking Animation_338
+  - first:
+      213: 5120018459930387547
+    second: Walking Animation_339
+  - first:
+      213: 963239060304837049
+    second: Walking Animation_340
+  - first:
+      213: 4697841814228534230
+    second: Walking Animation_341
+  - first:
+      213: 4063745622504810862
+    second: Walking Animation_342
+  - first:
+      213: -8696245247956553552
+    second: Walking Animation_343
+  - first:
+      213: -7447468318424244295
+    second: Walking Animation_344
+  - first:
+      213: -6530574757244950793
+    second: Walking Animation_345
+  - first:
+      213: 6404108722712267864
+    second: Walking Animation_346
+  - first:
+      213: -7546563179939606724
+    second: Walking Animation_347
+  - first:
+      213: -5933420354307233900
+    second: Walking Animation_348
+  - first:
+      213: -2375873897963002814
+    second: Walking Animation_349
+  - first:
+      213: 6461463407249835237
+    second: Walking Animation_350
+  - first:
+      213: -4295094115225269878
+    second: Walking Animation_351
+  - first:
+      213: -2471242364457913053
+    second: Walking Animation_352
+  - first:
+      213: 8664698392139972870
+    second: Walking Animation_353
+  - first:
+      213: 3251531436031757730
+    second: Walking Animation_354
+  - first:
+      213: -3427621820032609964
+    second: Walking Animation_355
+  - first:
+      213: 3850074070999554485
+    second: Walking Animation_356
+  - first:
+      213: 3100377903376728154
+    second: Walking Animation_357
+  - first:
+      213: 4249948771381905842
+    second: Walking Animation_358
+  - first:
+      213: -2392988367053350790
+    second: Walking Animation_359
+  - first:
+      213: -6812772741292839272
+    second: Walking Animation_360
+  - first:
+      213: -8704066187242286191
+    second: Walking Animation_361
+  - first:
+      213: -2710875333401674794
+    second: Walking Animation_362
+  - first:
+      213: 1077462270254665547
+    second: Walking Animation_363
+  - first:
+      213: -1157615659981399219
+    second: Walking Animation_364
+  - first:
+      213: 6255812361292082705
+    second: Walking Animation_365
+  - first:
+      213: 5321100821508087396
+    second: Walking Animation_366
+  - first:
+      213: -4110091539182429611
+    second: Walking Animation_367
+  - first:
+      213: -3922294024465308945
+    second: Walking Animation_368
+  - first:
+      213: 4394498146036067381
+    second: Walking Animation_369
+  - first:
+      213: 4734318640713210857
+    second: Walking Animation_370
+  - first:
+      213: -2161909502356531968
+    second: Walking Animation_371
+  - first:
+      213: 3170327853463647771
+    second: Walking Animation_372
+  - first:
+      213: -5979912228756050764
+    second: Walking Animation_373
+  - first:
+      213: -3987917930859442982
+    second: Walking Animation_374
+  - first:
+      213: 7797343744852367850
+    second: Walking Animation_375
+  - first:
+      213: 21521923388207798
+    second: Walking Animation_376
+  - first:
+      213: -2940923985632925069
+    second: Walking Animation_377
+  - first:
+      213: 8422675002491591704
+    second: Walking Animation_378
+  - first:
+      213: 4449427867927342219
+    second: Walking Animation_379
+  - first:
+      213: 9209205122356454339
+    second: Walking Animation_380
+  - first:
+      213: -7358234534965046232
+    second: Walking Animation_381
+  - first:
+      213: 8141859184800371758
+    second: Walking Animation_382
+  - first:
+      213: -4669549167986014916
+    second: Walking Animation_383
+  - first:
+      213: -4886840146784088250
+    second: Walking Animation_384
+  - first:
+      213: 3176928075726667911
+    second: Walking Animation_385
+  - first:
+      213: -2508492894975732709
+    second: Walking Animation_386
+  - first:
+      213: 2220334535007684226
+    second: Walking Animation_387
+  - first:
+      213: -5452876285802840918
+    second: Walking Animation_388
+  - first:
+      213: 2091646210460227188
+    second: Walking Animation_389
+  - first:
+      213: -8848001675256677907
+    second: Walking Animation_390
+  - first:
+      213: 1866487713511910556
+    second: Walking Animation_391
+  - first:
+      213: 5696722397965758992
+    second: Walking Animation_392
+  - first:
+      213: 8113067149628028155
+    second: Walking Animation_393
+  - first:
+      213: 2767265658943392909
+    second: Walking Animation_394
+  - first:
+      213: 7380293136234909928
+    second: Walking Animation_395
+  - first:
+      213: -7678194902208756568
+    second: Walking Animation_396
+  - first:
+      213: 4776393356964494827
+    second: Walking Animation_397
+  - first:
+      213: -9192574515991918586
+    second: Walking Animation_398
+  - first:
+      213: 4522362355270528235
+    second: Walking Animation_399
+  - first:
+      213: -7504788240158209104
+    second: Walking Animation_400
+  - first:
+      213: 1122059459911605354
+    second: Walking Animation_401
+  - first:
+      213: 1434977374882843619
+    second: Walking Animation_402
+  - first:
+      213: 5591822879208722814
+    second: Walking Animation_403
+  - first:
+      213: -5512352542315188183
+    second: Walking Animation_404
+  - first:
+      213: 4245988963701156844
+    second: Walking Animation_405
+  - first:
+      213: -5212281067378589477
+    second: Walking Animation_406
+  - first:
+      213: 3907083800127829898
+    second: Walking Animation_407
+  - first:
+      213: -3323274865940974282
+    second: Walking Animation_408
+  - first:
+      213: 2344201239977890860
+    second: Walking Animation_409
+  - first:
+      213: 6113412904725170674
+    second: Walking Animation_410
+  - first:
+      213: -974163128936843139
+    second: Walking Animation_411
+  - first:
+      213: -5676349756306712867
+    second: Walking Animation_412
+  - first:
+      213: 4174691047674673688
+    second: Walking Animation_413
+  - first:
+      213: -2422200994300397721
+    second: Walking Animation_414
+  - first:
+      213: -3697200353494715343
+    second: Walking Animation_415
+  - first:
+      213: -922971749445407905
+    second: Walking Animation_416
+  - first:
+      213: -5539097410084222370
+    second: Walking Animation_417
+  - first:
+      213: 8334344307013603057
+    second: Walking Animation_418
+  - first:
+      213: 9039649112599734776
+    second: Walking Animation_419
+  - first:
+      213: 1690006586190202119
+    second: Walking Animation_420
+  - first:
+      213: 5594117881716605098
+    second: Walking Animation_421
+  - first:
+      213: 6273934419021191253
+    second: Walking Animation_422
+  - first:
+      213: -6275764524221129191
+    second: Walking Animation_423
+  - first:
+      213: -7423478072514242774
+    second: Walking Animation_424
+  - first:
+      213: -3920959237964572423
+    second: Walking Animation_425
+  - first:
+      213: 446580840870817005
+    second: Walking Animation_426
+  - first:
+      213: 3330688510159257113
+    second: Walking Animation_427
+  - first:
+      213: 3098932475684277314
+    second: Walking Animation_428
+  - first:
+      213: -4213211230590319789
+    second: Walking Animation_429
+  - first:
+      213: 8702067301975014864
+    second: Walking Animation_430
+  - first:
+      213: 4412829757933224491
+    second: Walking Animation_431
+  - first:
+      213: 5294678925347579815
+    second: Walking Animation_432
+  - first:
+      213: -6417548381689999253
+    second: Walking Animation_433
+  - first:
+      213: -2540708947547933497
+    second: Walking Animation_434
+  - first:
+      213: 8884498872223660434
+    second: Walking Animation_435
+  - first:
+      213: -8942605300252669887
+    second: Walking Animation_436
+  - first:
+      213: -3761059281365645848
+    second: Walking Animation_437
+  - first:
+      213: -7910864593961130542
+    second: Walking Animation_438
+  - first:
+      213: 3923287847838387642
+    second: Walking Animation_439
+  - first:
+      213: 5806703013469666341
+    second: Walking Animation_440
+  - first:
+      213: -2946003994740460796
+    second: Walking Animation_441
+  - first:
+      213: 7342628229009616175
+    second: Walking Animation_442
+  - first:
+      213: -6461691366280421534
+    second: Walking Animation_443
+  - first:
+      213: 194183002279305413
+    second: Walking Animation_444
+  - first:
+      213: 5930145513842766692
+    second: Walking Animation_445
+  - first:
+      213: 1461566099145604346
+    second: Walking Animation_446
+  - first:
+      213: 6033864691348031304
+    second: Walking Animation_447
+  - first:
+      213: 7794011218907254333
+    second: Walking Animation_448
+  - first:
+      213: -6830388571132401457
+    second: Walking Animation_449
+  - first:
+      213: -5181321129990723918
+    second: Walking Animation_450
+  - first:
+      213: 5541076284156705381
+    second: Walking Animation_451
+  - first:
+      213: 8771962346223765112
+    second: Walking Animation_452
+  - first:
+      213: 3809168108605959182
+    second: Walking Animation_453
+  - first:
+      213: -5139299119911056705
+    second: Walking Animation_454
+  - first:
+      213: 3839739770388965774
+    second: Walking Animation_455
+  - first:
+      213: -6273777190955459507
+    second: Walking Animation_456
+  - first:
+      213: 6041183369847456202
+    second: Walking Animation_457
+  - first:
+      213: 6162145983918117392
+    second: Walking Animation_458
+  - first:
+      213: -1732154883977508390
+    second: Walking Animation_459
+  - first:
+      213: -92364465176608037
+    second: Walking Animation_460
+  - first:
+      213: -8658014008067277214
+    second: Walking Animation_461
+  - first:
+      213: 8589464880563770623
+    second: Walking Animation_462
+  - first:
+      213: 8632101338394999710
+    second: Walking Animation_463
+  - first:
+      213: -7544867327736277584
+    second: Walking Animation_464
+  - first:
+      213: 6207009477133794436
+    second: Walking Animation_465
+  - first:
+      213: -8723221830838839562
+    second: Walking Animation_466
+  - first:
+      213: -3317561873475114643
+    second: Walking Animation_467
+  - first:
+      213: 4328468053258578897
+    second: Walking Animation_468
+  - first:
+      213: -4326658246734646182
+    second: Walking Animation_469
+  - first:
+      213: -5750095374356689468
+    second: Walking Animation_470
+  - first:
+      213: 477403179410198107
+    second: Walking Animation_471
+  - first:
+      213: 278142577858184117
+    second: Walking Animation_472
+  - first:
+      213: -5387746402391631098
+    second: Walking Animation_473
+  - first:
+      213: 5237598620853030185
+    second: Walking Animation_474
+  - first:
+      213: -8044671466382338659
+    second: Walking Animation_475
+  - first:
+      213: 274165832171125866
+    second: Walking Animation_476
+  - first:
+      213: 3262924631510719953
+    second: Walking Animation_477
+  - first:
+      213: -8657852197806181814
+    second: Walking Animation_478
+  - first:
+      213: -3356817841496966335
+    second: Walking Animation_479
+  - first:
+      213: 4305425451030558932
+    second: Walking Animation_480
+  - first:
+      213: 7871586748146940486
+    second: Walking Animation_481
+  - first:
+      213: -7033038320478477571
+    second: Walking Animation_482
+  - first:
+      213: -4360203733575039905
+    second: Walking Animation_483
+  - first:
+      213: -3067427197669925568
+    second: Walking Animation_484
+  - first:
+      213: -20793202559861783
+    second: Walking Animation_485
+  - first:
+      213: -6928530656963182709
+    second: Walking Animation_486
+  - first:
+      213: -6942621967659509835
+    second: Walking Animation_487
+  - first:
+      213: -8544785676817090310
+    second: Walking Animation_488
+  - first:
+      213: -5911978199011449985
+    second: Walking Animation_489
+  - first:
+      213: -2380172930928309055
+    second: Walking Animation_490
+  - first:
+      213: 5843123653870096298
+    second: Walking Animation_491
+  - first:
+      213: 5613455355914533442
+    second: Walking Animation_492
+  - first:
+      213: 1659334350900529862
+    second: Walking Animation_493
+  - first:
+      213: 8429398392916242462
+    second: Walking Animation_494
+  - first:
+      213: 1710000718262035640
+    second: Walking Animation_495
+  - first:
+      213: 6175479281101739344
+    second: Walking Animation_496
+  - first:
+      213: -4449555500262839079
+    second: Walking Animation_497
+  - first:
+      213: 5286796960524325505
+    second: Walking Animation_498
+  - first:
+      213: -1774771920348120166
+    second: Walking Animation_499
+  - first:
+      213: -3989980702354340258
+    second: Walking Animation_500
+  - first:
+      213: -6972562685832300171
+    second: Walking Animation_501
+  - first:
+      213: -8716097598134213586
+    second: Walking Animation_502
+  - first:
+      213: 7259128534728743036
+    second: Walking Animation_503
+  - first:
+      213: -3852160363575668963
+    second: Walking Animation_504
+  - first:
+      213: 4708058848111012979
+    second: Walking Animation_505
+  - first:
+      213: -6674901557504383934
+    second: Walking Animation_506
+  - first:
+      213: -8888144535237106195
+    second: Walking Animation_507
+  - first:
+      213: 8426826896546922443
+    second: Walking Animation_508
+  - first:
+      213: -1958366274376104395
+    second: Walking Animation_509
+  - first:
+      213: 6116965521405597055
+    second: Walking Animation_510
+  - first:
+      213: 129895290614340425
+    second: Walking Animation_511
+  - first:
+      213: -1676904812058171545
+    second: Walking Animation_512
+  - first:
+      213: -2386034840720928554
+    second: Walking Animation_513
+  - first:
+      213: 65187236817416281
+    second: Walking Animation_514
+  - first:
+      213: -4803137116928692724
+    second: Walking Animation_515
+  - first:
+      213: -2264248626145836803
+    second: Walking Animation_516
+  - first:
+      213: -5082407677368531994
+    second: Walking Animation_517
+  - first:
+      213: 1786530871515985523
+    second: Walking Animation_518
+  - first:
+      213: -2677879491458702778
+    second: Walking Animation_519
+  - first:
+      213: -4959195428188360265
+    second: Walking Animation_520
+  - first:
+      213: 7461751741823284718
+    second: Walking Animation_521
+  - first:
+      213: 395204811249799483
+    second: Walking Animation_522
+  - first:
+      213: -8832689102029203090
+    second: Walking Animation_523
+  - first:
+      213: 5701351535276693068
+    second: Walking Animation_524
+  - first:
+      213: -8422170865401750634
+    second: Walking Animation_525
+  - first:
+      213: -6189879704654968457
+    second: Walking Animation_526
+  - first:
+      213: -6120112752373712910
+    second: Walking Animation_527
+  - first:
+      213: 3844949084668716622
+    second: Walking Animation_528
+  - first:
+      213: -7425418036261538305
+    second: Walking Animation_529
+  - first:
+      213: -2165711141577836349
+    second: Walking Animation_530
+  - first:
+      213: 9202373291070400699
+    second: Walking Animation_531
+  - first:
+      213: 4082681248130363991
+    second: Walking Animation_532
+  - first:
+      213: -3480506530697560713
+    second: Walking Animation_533
+  - first:
+      213: 482771013844221727
+    second: Walking Animation_534
+  - first:
+      213: 5885360214558168839
+    second: Walking Animation_535
+  - first:
+      213: 8076983198930143046
+    second: Walking Animation_536
+  - first:
+      213: -7906197813767203158
+    second: Walking Animation_537
+  - first:
+      213: 4799710757198848906
+    second: Walking Animation_538
+  - first:
+      213: 392149022961090599
+    second: Walking Animation_539
+  - first:
+      213: 2543915848408559298
+    second: Walking Animation_540
+  - first:
+      213: -3719545278251495583
+    second: Walking Animation_541
+  - first:
+      213: -8769326851871828478
+    second: Walking Animation_542
+  - first:
+      213: -4664414979501464488
+    second: Walking Animation_543
+  - first:
+      213: -4719237880116947041
+    second: Walking Animation_544
+  - first:
+      213: -932150604188189523
+    second: Walking Animation_545
+  - first:
+      213: -3159964538298197732
+    second: Walking Animation_546
+  - first:
+      213: -7533546988473617280
+    second: Walking Animation_547
+  - first:
+      213: 5885915376352332753
+    second: Walking Animation_548
+  - first:
+      213: -4174373337967022994
+    second: Walking Animation_549
+  - first:
+      213: 3763334999334875695
+    second: Walking Animation_550
+  - first:
+      213: -8256984390806920531
+    second: Walking Animation_551
+  - first:
+      213: -607136566322745013
+    second: Walking Animation_552
+  - first:
+      213: 2473296448843371589
+    second: Walking Animation_553
+  - first:
+      213: 6634475533522687997
+    second: Walking Animation_554
+  - first:
+      213: -1001685102264986483
+    second: Walking Animation_555
+  - first:
+      213: -8715252920024247696
+    second: Walking Animation_556
+  - first:
+      213: 4829234240603721232
+    second: Walking Animation_557
+  - first:
+      213: -2124000763751199156
+    second: Walking Animation_558
+  - first:
+      213: 3548147652074146372
+    second: Walking Animation_559
+  - first:
+      213: 4958785195298941647
+    second: Walking Animation_560
+  - first:
+      213: 3354601449179776671
+    second: Walking Animation_561
+  - first:
+      213: 8784396985833029195
+    second: Walking Animation_562
+  - first:
+      213: 7242387335273176672
+    second: Walking Animation_563
+  - first:
+      213: -5234398838725132777
+    second: Walking Animation_564
+  - first:
+      213: 401312074854915937
+    second: Walking Animation_565
+  - first:
+      213: 6540476795098374324
+    second: Walking Animation_566
+  - first:
+      213: 764112189387985346
+    second: Walking Animation_567
+  - first:
+      213: -4087262928407047018
+    second: Walking Animation_568
+  - first:
+      213: -2494614320288513890
+    second: Walking Animation_569
+  - first:
+      213: -8219828433468821636
+    second: Walking Animation_570
+  - first:
+      213: -3437380904060789365
+    second: Walking Animation_571
+  - first:
+      213: -7797164833993331149
+    second: Walking Animation_572
+  - first:
+      213: 5565094733051442194
+    second: Walking Animation_573
+  - first:
+      213: 5333796588042075629
+    second: Walking Animation_574
+  - first:
+      213: 5664111386042530734
+    second: Walking Animation_575
+  - first:
+      213: 1817599130352994707
+    second: Walking Animation_576
+  - first:
+      213: 2547643764525193662
+    second: Walking Animation_577
+  - first:
+      213: 1616413858625044085
+    second: Walking Animation_578
+  - first:
+      213: 2325207100232612630
+    second: Walking Animation_579
+  - first:
+      213: -7249493327977944377
+    second: Walking Animation_580
+  - first:
+      213: -8627428462107700344
+    second: Walking Animation_581
+  - first:
+      213: -3078102742306774905
+    second: Walking Animation_582
+  - first:
+      213: -520285043154907498
+    second: Walking Animation_583
+  - first:
+      213: 8686045355076333972
+    second: Walking Animation_584
+  - first:
+      213: 464715450473070353
+    second: Walking Animation_585
+  - first:
+      213: 8532728358187337317
+    second: Walking Animation_586
+  - first:
+      213: 6531511104675920414
+    second: Walking Animation_587
+  - first:
+      213: 5857817108087497238
+    second: Walking Animation_588
+  - first:
+      213: -5697638919186458044
+    second: Walking Animation_589
+  - first:
+      213: -1223475767797842873
+    second: Walking Animation_590
+  - first:
+      213: -3154911981578950006
+    second: Walking Animation_591
+  - first:
+      213: 2447595493993720254
+    second: Walking Animation_592
+  - first:
+      213: 6510084476988374033
+    second: Walking Animation_593
+  - first:
+      213: -2307095360387657217
+    second: Walking Animation_594
+  - first:
+      213: -7070125069837494471
+    second: Walking Animation_595
+  - first:
+      213: 7854730441016337659
+    second: Walking Animation_596
+  - first:
+      213: -3666845177449060756
+    second: Walking Animation_597
+  - first:
+      213: -8750426057793864066
+    second: Walking Animation_598
+  - first:
+      213: 1321573398769874611
+    second: Walking Animation_599
+  - first:
+      213: 8442967766290855503
+    second: Walking Animation_600
+  - first:
+      213: 4938165712665457432
+    second: Walking Animation_601
+  - first:
+      213: 2712499364645146315
+    second: Walking Animation_602
+  - first:
+      213: 1596263661164391062
+    second: Walking Animation_603
+  - first:
+      213: 932300663041163204
+    second: Walking Animation_604
+  - first:
+      213: -3797482666569448722
+    second: Walking Animation_605
+  - first:
+      213: -7403757111243212927
+    second: Walking Animation_606
+  - first:
+      213: -6018692444644475378
+    second: Walking Animation_607
+  - first:
+      213: -7998112261607557341
+    second: Walking Animation_608
+  - first:
+      213: 7460805972985648412
+    second: Walking Animation_609
+  - first:
+      213: 476881860881683448
+    second: Walking Animation_610
+  - first:
+      213: 9013728160919547826
+    second: Walking Animation_611
+  - first:
+      213: 4309343328110848611
+    second: Walking Animation_612
+  - first:
+      213: -7264148487244466452
+    second: Walking Animation_613
+  - first:
+      213: -5912832423960818069
+    second: Walking Animation_614
+  - first:
+      213: -1618794829782290536
+    second: Walking Animation_615
+  - first:
+      213: -2108186701350105832
+    second: Walking Animation_616
+  - first:
+      213: 5046897589924187192
+    second: Walking Animation_617
+  - first:
+      213: 6224872274208266687
+    second: Walking Animation_618
+  - first:
+      213: -3232875824489058504
+    second: Walking Animation_619
+  - first:
+      213: 1719387652607854195
+    second: Walking Animation_620
+  - first:
+      213: 6679225415807870509
+    second: Walking Animation_621
+  - first:
+      213: -4921339043033205194
+    second: Walking Animation_622
+  - first:
+      213: 1031216606884287751
+    second: Walking Animation_623
+  - first:
+      213: -8428711200453596813
+    second: Walking Animation_624
+  - first:
+      213: -7819112470610326484
+    second: Walking Animation_625
+  - first:
+      213: 8796859776090996516
+    second: Walking Animation_626
+  - first:
+      213: -2178792005252971231
+    second: Walking Animation_627
+  - first:
+      213: -1154154711875847966
+    second: Walking Animation_628
+  - first:
+      213: -1778069456384513645
+    second: Walking Animation_629
+  - first:
+      213: 1061498283043534317
+    second: Walking Animation_630
+  - first:
+      213: 866899315417366508
+    second: Walking Animation_631
+  - first:
+      213: -1157755813187761564
+    second: Walking Animation_632
+  - first:
+      213: -7045005097793224130
+    second: Walking Animation_633
+  - first:
+      213: 6001262800909854496
+    second: Walking Animation_634
+  - first:
+      213: -4179592769720103282
+    second: Walking Animation_635
+  - first:
+      213: -6646562675256129647
+    second: Walking Animation_636
+  - first:
+      213: 4510095813848341446
+    second: Walking Animation_637
+  - first:
+      213: 4746657474194609806
+    second: Walking Animation_638
+  - first:
+      213: -6673532412966970017
+    second: Walking Animation_639
+  - first:
+      213: 1919786663129997811
+    second: Walking Animation_640
+  - first:
+      213: 8785637085094509663
+    second: Walking Animation_641
+  - first:
+      213: -5075459748176202912
+    second: Walking Animation_642
+  - first:
+      213: 2284599833180784642
+    second: Walking Animation_643
+  - first:
+      213: -6717744098263608813
+    second: Walking Animation_644
+  - first:
+      213: -8485151839381804827
+    second: Walking Animation_645
+  - first:
+      213: 3609758310222095858
+    second: Walking Animation_646
+  - first:
+      213: -5670293777784796344
+    second: Walking Animation_647
+  - first:
+      213: -4816692028206294238
+    second: Walking Animation_648
+  - first:
+      213: -7410507361002833625
+    second: Walking Animation_649
+  - first:
+      213: 8226815217906463381
+    second: Walking Animation_650
+  - first:
+      213: -6482932530208400589
+    second: Walking Animation_651
+  - first:
+      213: -6774143523683379771
+    second: Walking Animation_652
+  - first:
+      213: 2780047389536879839
+    second: Walking Animation_653
+  - first:
+      213: -1277043531721136309
+    second: Walking Animation_654
+  - first:
+      213: 5366981852569738185
+    second: Walking Animation_655
+  - first:
+      213: -6150560696017160092
+    second: Walking Animation_656
+  - first:
+      213: 5786786921511007274
+    second: Walking Animation_657
+  - first:
+      213: 3068666317963346527
+    second: Walking Animation_658
+  - first:
+      213: 6554494904404638694
+    second: Walking Animation_659
+  - first:
+      213: -179986924683299839
+    second: Walking Animation_660
+  - first:
+      213: 7148426531701567323
+    second: Walking Animation_661
+  - first:
+      213: 9205264226632895268
+    second: Walking Animation_662
+  - first:
+      213: 696010696252423111
+    second: Walking Animation_663
+  - first:
+      213: -192939526046441354
+    second: Walking Animation_664
+  - first:
+      213: 138972581637180210
+    second: Walking Animation_665
+  - first:
+      213: -1236791149686310996
+    second: Walking Animation_666
+  - first:
+      213: -2975868094528966958
+    second: Walking Animation_667
+  - first:
+      213: -1879596528694527261
+    second: Walking Animation_668
+  - first:
+      213: -709014761711133377
+    second: Walking Animation_669
+  - first:
+      213: -1399377156896764033
+    second: Walking Animation_670
+  - first:
+      213: -8140658699796947047
+    second: Walking Animation_671
+  - first:
+      213: 7079130605506760709
+    second: Walking Animation_672
+  - first:
+      213: 8711929710842793863
+    second: Walking Animation_673
+  - first:
+      213: -6634127193229064181
+    second: Walking Animation_674
+  - first:
+      213: -8095812837443249247
+    second: Walking Animation_675
+  - first:
+      213: 6531943173933144415
+    second: Walking Animation_676
+  - first:
+      213: -786114884146230207
+    second: Walking Animation_677
+  - first:
+      213: 7657563679195295850
+    second: Walking Animation_678
+  - first:
+      213: 8744337320144636529
+    second: Walking Animation_679
+  - first:
+      213: -4670538667982094569
+    second: Walking Animation_680
+  - first:
+      213: -6746792105442127767
+    second: Walking Animation_681
+  - first:
+      213: 8207734497136364541
+    second: Walking Animation_682
+  - first:
+      213: -1407343617331821173
+    second: Walking Animation_683
+  - first:
+      213: -5011782808844381909
+    second: Walking Animation_684
+  - first:
+      213: -1029099812051465474
+    second: Walking Animation_685
+  - first:
+      213: 7869775472276693597
+    second: Walking Animation_686
+  - first:
+      213: -8141023069283258920
+    second: Walking Animation_687
+  - first:
+      213: -5629127873644454532
+    second: Walking Animation_688
+  - first:
+      213: -577009423124851579
+    second: Walking Animation_689
+  - first:
+      213: 9008757335481081899
+    second: Walking Animation_690
+  - first:
+      213: 6209890695395752365
+    second: Walking Animation_691
+  - first:
+      213: 1938000137729226789
+    second: Walking Animation_692
+  - first:
+      213: 9084111228219399923
+    second: Walking Animation_693
+  - first:
+      213: 7999322481352169609
+    second: Walking Animation_694
+  - first:
+      213: -4643589726287396197
+    second: Walking Animation_695
+  - first:
+      213: 4673967723879833108
+    second: Walking Animation_696
+  - first:
+      213: 3066853587066709567
+    second: Walking Animation_697
+  - first:
+      213: -7980082664647568058
+    second: Walking Animation_698
+  - first:
+      213: -8111612362964142761
+    second: Walking Animation_699
+  - first:
+      213: -4580720982734525660
+    second: Walking Animation_700
+  - first:
+      213: 4664381209766624891
+    second: Walking Animation_701
+  - first:
+      213: 9144362357913764994
+    second: Walking Animation_702
+  - first:
+      213: -313731772517032202
+    second: Walking Animation_703
+  - first:
+      213: -6890402092955086123
+    second: Walking Animation_704
+  - first:
+      213: 554897223501242349
+    second: Walking Animation_705
+  - first:
+      213: -4255632859826891766
+    second: Walking Animation_706
+  - first:
+      213: -9170603029607755192
+    second: Walking Animation_707
+  - first:
+      213: 7886997565919346547
+    second: Walking Animation_708
+  - first:
+      213: -6180498689815984454
+    second: Walking Animation_709
+  - first:
+      213: 8964731201322618671
+    second: Walking Animation_710
+  - first:
+      213: -8841090360770131306
+    second: Walking Animation_711
+  - first:
+      213: -3033995008619871014
+    second: Walking Animation_712
+  - first:
+      213: 168317559294617750
+    second: Walking Animation_713
+  - first:
+      213: -5114121546485680093
+    second: Walking Animation_714
+  - first:
+      213: 804539639708521226
+    second: Walking Animation_715
+  - first:
+      213: -8886962659115242816
+    second: Walking Animation_716
+  - first:
+      213: 6854817068628929047
+    second: Walking Animation_717
+  - first:
+      213: -5924030198897797907
+    second: Walking Animation_718
+  - first:
+      213: -6432450046319029953
+    second: Walking Animation_719
+  - first:
+      213: 1954373790859421047
+    second: Walking Animation_720
+  - first:
+      213: 3094688072707037662
+    second: Walking Animation_721
+  - first:
+      213: 225484678418527445
+    second: Walking Animation_722
+  - first:
+      213: -649671273223325487
+    second: Walking Animation_723
+  - first:
+      213: -1513968733765928743
+    second: Walking Animation_724
+  - first:
+      213: -5755017671784940604
+    second: Walking Animation_725
+  - first:
+      213: -175898117652772690
+    second: Walking Animation_726
+  - first:
+      213: -7063562480419275841
+    second: Walking Animation_727
+  - first:
+      213: -2142635117958301106
+    second: Walking Animation_728
+  - first:
+      213: 3388665134604897280
+    second: Walking Animation_729
+  - first:
+      213: -8147871338581941470
+    second: Walking Animation_730
+  - first:
+      213: -5069800915302234850
+    second: Walking Animation_731
+  - first:
+      213: -841230284648136116
+    second: Walking Animation_732
+  - first:
+      213: -1139677000687292296
+    second: Walking Animation_733
+  - first:
+      213: -5848717665188279699
+    second: Walking Animation_734
+  - first:
+      213: 7391126517376716517
+    second: Walking Animation_735
+  - first:
+      213: 3724779502092904392
+    second: Walking Animation_736
+  - first:
+      213: 6859929882795881297
+    second: Walking Animation_737
+  - first:
+      213: -117180119032955260
+    second: Walking Animation_738
+  - first:
+      213: 4997345655689426713
+    second: Walking Animation_739
+  - first:
+      213: -3907615081464869963
+    second: Walking Animation_740
+  - first:
+      213: -1065082710910980182
+    second: Walking Animation_741
+  - first:
+      213: -746058440534648771
+    second: Walking Animation_742
+  - first:
+      213: 2211417518242019842
+    second: Walking Animation_743
+  - first:
+      213: 2696346922445687949
+    second: Walking Animation_744
+  - first:
+      213: 6357122182070977268
+    second: Walking Animation_745
+  - first:
+      213: 6599123137127515527
+    second: Walking Animation_746
+  - first:
+      213: 7915562706079716020
+    second: Walking Animation_747
+  - first:
+      213: -9195382881391433257
+    second: Walking Animation_748
+  - first:
+      213: 1540414110248321787
+    second: Walking Animation_749
+  - first:
+      213: -4722144360321711712
+    second: Walking Animation_750
+  - first:
+      213: 2383835520614768924
+    second: Walking Animation_751
+  - first:
+      213: -3651947783294840863
+    second: Walking Animation_752
+  - first:
+      213: 5344657929535497389
+    second: Walking Animation_753
+  - first:
+      213: 420237102343720189
+    second: Walking Animation_754
+  - first:
+      213: -7829485901594947966
+    second: Walking Animation_755
+  - first:
+      213: 5473532906385873825
+    second: Walking Animation_756
+  - first:
+      213: 534676705264682383
+    second: Walking Animation_757
+  - first:
+      213: -1144591241255688697
+    second: Walking Animation_758
+  - first:
+      213: -740527323724761176
+    second: Walking Animation_759
+  - first:
+      213: -335752951786638006
+    second: Walking Animation_760
+  - first:
+      213: 8497236451956821950
+    second: Walking Animation_761
+  - first:
+      213: 2913665730220045912
+    second: Walking Animation_762
+  - first:
+      213: -658705860089336510
+    second: Walking Animation_763
+  - first:
+      213: 7554085787454493858
+    second: Walking Animation_764
+  - first:
+      213: 3059267428625801530
+    second: Walking Animation_765
+  - first:
+      213: 5509010379948421826
+    second: Walking Animation_766
+  - first:
+      213: -1721371702024737285
+    second: Walking Animation_767
+  - first:
+      213: -2963485646876410293
+    second: Walking Animation_768
+  - first:
+      213: 2562618162945225308
+    second: Walking Animation_769
+  - first:
+      213: -3138307841117346486
+    second: Walking Animation_770
+  - first:
+      213: 4338210828757344298
+    second: Walking Animation_771
+  - first:
+      213: -3984708497724878469
+    second: Walking Animation_772
+  - first:
+      213: -3159275933421243630
+    second: Walking Animation_773
+  - first:
+      213: 3756771527373179798
+    second: Walking Animation_774
+  - first:
+      213: 2258992297001313143
+    second: Walking Animation_775
+  - first:
+      213: -7680674370784149986
+    second: Walking Animation_776
+  - first:
+      213: 3435431093647691593
+    second: Walking Animation_777
+  - first:
+      213: 5783913835979502275
+    second: Walking Animation_778
+  - first:
+      213: -4639387862197273915
+    second: Walking Animation_779
+  - first:
+      213: -943009385101269861
+    second: Walking Animation_780
+  - first:
+      213: 907149491087597831
+    second: Walking Animation_781
+  - first:
+      213: 646931682608753646
+    second: Walking Animation_782
+  - first:
+      213: 7146583827333657735
+    second: Walking Animation_783
+  - first:
+      213: 3260781216520824907
+    second: Walking Animation_784
+  - first:
+      213: -8668509469669684625
+    second: Walking Animation_785
+  - first:
+      213: 4872262344300467765
+    second: Walking Animation_786
+  - first:
+      213: -7914298210683700748
+    second: Walking Animation_787
+  - first:
+      213: 1760767765388347518
+    second: Walking Animation_788
+  - first:
+      213: -4431684988765147254
+    second: Walking Animation_789
+  - first:
+      213: -7385718300214432906
+    second: Walking Animation_790
+  - first:
+      213: -8461477055376439092
+    second: Walking Animation_791
+  - first:
+      213: -784781164420649581
+    second: Walking Animation_792
+  - first:
+      213: 2967562911622480168
+    second: Walking Animation_793
+  - first:
+      213: 6973930377612721271
+    second: Walking Animation_794
+  - first:
+      213: 2829294259561233155
+    second: Walking Animation_795
+  - first:
+      213: -8788633376097023751
+    second: Walking Animation_796
+  - first:
+      213: -17679028381057514
+    second: Walking Animation_797
+  - first:
+      213: -2582387694083763323
+    second: Walking Animation_798
+  - first:
+      213: 4608756120286071175
+    second: Walking Animation_799
+  - first:
+      213: -5996663263523822791
+    second: Walking Animation_800
+  - first:
+      213: -7246318545904805836
+    second: Walking Animation_801
+  - first:
+      213: 9078450036504476490
+    second: Walking Animation_802
+  - first:
+      213: -4136399860853221013
+    second: Walking Animation_803
+  - first:
+      213: -4771817029659204435
+    second: Walking Animation_804
+  - first:
+      213: -5964359958874683655
+    second: Walking Animation_805
+  - first:
+      213: 1265902453793807455
+    second: Walking Animation_806
+  - first:
+      213: -2111328774554036568
+    second: Walking Animation_807
+  - first:
+      213: 2076066524392105701
+    second: Walking Animation_808
+  - first:
+      213: -8709906776203876952
+    second: Walking Animation_809
+  - first:
+      213: -1943440292698524429
+    second: Walking Animation_810
+  - first:
+      213: 4804061410281712469
+    second: Walking Animation_811
+  - first:
+      213: -4944764474501095258
+    second: Walking Animation_812
+  - first:
+      213: 8903196263212841260
+    second: Walking Animation_813
+  - first:
+      213: 1577507739899341942
+    second: Walking Animation_814
+  - first:
+      213: 7622123747116645320
+    second: Walking Animation_815
+  - first:
+      213: -6070037257031636366
+    second: Walking Animation_816
+  - first:
+      213: -7231762525196702272
+    second: Walking Animation_817
+  - first:
+      213: 8632488376945336358
+    second: Walking Animation_818
+  - first:
+      213: -8382294134802390210
+    second: Walking Animation_819
+  - first:
+      213: 7457961101098786324
+    second: Walking Animation_820
+  - first:
+      213: 2532023334024991027
+    second: Walking Animation_821
+  - first:
+      213: 4840699610403554882
+    second: Walking Animation_822
+  - first:
+      213: -7902777609453865507
+    second: Walking Animation_823
+  - first:
+      213: 5921874067564420462
+    second: Walking Animation_824
+  - first:
+      213: 6943605009884453548
+    second: Walking Animation_825
+  - first:
+      213: 5931342860379290970
+    second: Walking Animation_826
+  - first:
+      213: -1434886036322899722
+    second: Walking Animation_827
+  - first:
+      213: 2420373042168363414
+    second: Walking Animation_828
+  - first:
+      213: 2532403056857021274
+    second: Walking Animation_829
+  - first:
+      213: -3395157641545268725
+    second: Walking Animation_830
+  - first:
+      213: 1170588113171869334
+    second: Walking Animation_831
+  - first:
+      213: -1956531043234863114
+    second: Walking Animation_832
+  - first:
+      213: 534509286315844443
+    second: Walking Animation_833
+  - first:
+      213: -3796438421351069564
+    second: Walking Animation_834
+  - first:
+      213: 3080128959309097673
+    second: Walking Animation_835
+  - first:
+      213: -5053425584282278490
+    second: Walking Animation_836
+  - first:
+      213: -639176445148510571
+    second: Walking Animation_837
+  - first:
+      213: -1432943546492845438
+    second: Walking Animation_838
+  - first:
+      213: -5152175920308031451
+    second: Walking Animation_839
+  - first:
+      213: 6655778658774038101
+    second: Walking Animation_840
+  - first:
+      213: 2116587941276399021
+    second: Walking Animation_841
+  - first:
+      213: -6888256742307749304
+    second: Walking Animation_842
+  - first:
+      213: 1323279830580848498
+    second: Walking Animation_843
+  - first:
+      213: 6160596282012265333
+    second: Walking Animation_844
+  - first:
+      213: 7566485908556577802
+    second: Walking Animation_845
+  - first:
+      213: 2833806994012049049
+    second: Walking Animation_846
+  - first:
+      213: -9210550012544192626
+    second: Walking Animation_847
+  - first:
+      213: 1726812913827235813
+    second: Walking Animation_848
+  - first:
+      213: 5753385910014089443
+    second: Walking Animation_849
+  - first:
+      213: -4540729631752926690
+    second: Walking Animation_850
+  - first:
+      213: 1884859736920950139
+    second: Walking Animation_851
+  - first:
+      213: 2974646316869333125
+    second: Walking Animation_852
+  - first:
+      213: -8320850104276764108
+    second: Walking Animation_853
+  - first:
+      213: -5419550991944627639
+    second: Walking Animation_854
+  - first:
+      213: -2341350201654421978
+    second: Walking Animation_855
+  - first:
+      213: 7575887553992123907
+    second: Walking Animation_856
+  - first:
+      213: -6144347153464614742
+    second: Walking Animation_857
+  - first:
+      213: 251926960625373301
+    second: Walking Animation_858
+  - first:
+      213: 1009703972153843670
+    second: Walking Animation_859
+  - first:
+      213: -8872435179479973831
+    second: Walking Animation_860
+  - first:
+      213: 7638110804075328991
+    second: Walking Animation_861
+  - first:
+      213: 9015078492366358725
+    second: Walking Animation_862
+  - first:
+      213: 7564901277558930226
+    second: Walking Animation_863
+  - first:
+      213: -2381524618111974912
+    second: Walking Animation_864
+  - first:
+      213: 3911660892728431010
+    second: Walking Animation_865
+  - first:
+      213: 795636139560716573
+    second: Walking Animation_866
+  - first:
+      213: 4431835308231515514
+    second: Walking Animation_867
+  - first:
+      213: -2200703355210438478
+    second: Walking Animation_868
+  - first:
+      213: -1858619462467190747
+    second: Walking Animation_869
+  - first:
+      213: -6635625313598223420
+    second: Walking Animation_870
+  - first:
+      213: -3933706807796061105
+    second: Walking Animation_871
+  - first:
+      213: 1728481340020901675
+    second: Walking Animation_872
+  - first:
+      213: -5951241953355312835
+    second: Walking Animation_873
+  - first:
+      213: -6260598086233846488
+    second: Walking Animation_874
+  - first:
+      213: 6831635435400592040
+    second: Walking Animation_875
+  - first:
+      213: 4523757636435638256
+    second: Walking Animation_876
+  - first:
+      213: -8543707609487738162
+    second: Walking Animation_877
+  - first:
+      213: 3623835242391566480
+    second: Walking Animation_878
+  - first:
+      213: -6535419433295007251
+    second: Walking Animation_879
+  - first:
+      213: -6711270341759365226
+    second: Walking Animation_880
+  - first:
+      213: -6667951764436701688
+    second: Walking Animation_881
+  - first:
+      213: -3986205732106629010
+    second: Walking Animation_882
+  - first:
+      213: -8809211690077012829
+    second: Walking Animation_883
+  - first:
+      213: -9026141295410360797
+    second: Walking Animation_884
+  - first:
+      213: 9049307105588025211
+    second: Walking Animation_885
+  - first:
+      213: 758853132426278862
+    second: Walking Animation_886
+  - first:
+      213: 3395823845323482995
+    second: Walking Animation_887
+  - first:
+      213: 7122526547503212453
+    second: Walking Animation_888
+  - first:
+      213: -6516884834557643735
+    second: Walking Animation_889
+  - first:
+      213: 1714970831946599924
+    second: Walking Animation_890
+  - first:
+      213: 3945451366446246885
+    second: Walking Animation_891
+  - first:
+      213: 2228947087116411953
+    second: Walking Animation_892
+  - first:
+      213: 5803944773453673926
+    second: Walking Animation_893
+  - first:
+      213: 2265985741584366982
+    second: Walking Animation_894
+  - first:
+      213: -6238635806212409503
+    second: Walking Animation_895
+  - first:
+      213: 6209073566779114974
+    second: Walking Animation_896
+  - first:
+      213: 4249243139320945537
+    second: Walking Animation_897
+  - first:
+      213: 7737907771844696542
+    second: Walking Animation_898
+  - first:
+      213: 3058781302806881797
+    second: Walking Animation_899
+  - first:
+      213: 6714959491882658513
+    second: Walking Animation_900
+  - first:
+      213: 2980160841673214955
+    second: Walking Animation_901
+  - first:
+      213: -4109355982079460399
+    second: Walking Animation_902
+  - first:
+      213: 8268622844553629123
+    second: Walking Animation_903
+  - first:
+      213: -5726085154107571881
+    second: Walking Animation_904
+  - first:
+      213: -6795261909044635008
+    second: Walking Animation_905
+  - first:
+      213: 5752676399660015191
+    second: Walking Animation_906
+  - first:
+      213: -8656970866809400312
+    second: Walking Animation_907
+  - first:
+      213: 4485055056435623794
+    second: Walking Animation_908
+  - first:
+      213: -1454061200099508818
+    second: Walking Animation_909
+  - first:
+      213: -6283412014096719549
+    second: Walking Animation_910
+  - first:
+      213: 8053979215701681361
+    second: Walking Animation_911
+  - first:
+      213: -3129918486240012097
+    second: Walking Animation_912
+  - first:
+      213: -7119394084011033890
+    second: Walking Animation_913
+  - first:
+      213: -3132171592010930248
+    second: Walking Animation_914
+  - first:
+      213: 7808981800706217746
+    second: Walking Animation_915
+  - first:
+      213: -2089362667773459344
+    second: Walking Animation_916
+  - first:
+      213: -4253007240352646258
+    second: Walking Animation_917
+  - first:
+      213: -8954441135375651633
+    second: Walking Animation_918
+  - first:
+      213: 1272442329825377892
+    second: Walking Animation_919
+  - first:
+      213: 3545076827679965022
+    second: Walking Animation_920
+  - first:
+      213: -12250073600194274
+    second: Walking Animation_921
+  - first:
+      213: 8557973602331742493
+    second: Walking Animation_922
+  - first:
+      213: 5048954331017201727
+    second: Walking Animation_923
+  - first:
+      213: 5669472707674204380
+    second: Walking Animation_924
+  - first:
+      213: 8284924877502098119
+    second: Walking Animation_925
+  - first:
+      213: -7751956303232791717
+    second: Walking Animation_926
+  - first:
+      213: 1977428086854364270
+    second: Walking Animation_927
+  - first:
+      213: -6884052120466713680
+    second: Walking Animation_928
+  - first:
+      213: 5030099270924494884
+    second: Walking Animation_929
+  - first:
+      213: -4517221148197150298
+    second: Walking Animation_930
+  - first:
+      213: -4649708173995264863
+    second: Walking Animation_931
+  - first:
+      213: 2762135971752369295
+    second: Walking Animation_932
+  - first:
+      213: 1030492139384390579
+    second: Walking Animation_933
+  - first:
+      213: 8584636053369182161
+    second: Walking Animation_934
+  - first:
+      213: 1657490827606221711
+    second: Walking Animation_935
+  - first:
+      213: -6790020927878902566
+    second: Walking Animation_936
+  - first:
+      213: 1205038620374276263
+    second: Walking Animation_937
+  - first:
+      213: 5041410949255267895
+    second: Walking Animation_938
+  - first:
+      213: 6556681244043505760
+    second: Walking Animation_939
+  - first:
+      213: 6803335220333979632
+    second: Walking Animation_940
+  - first:
+      213: -7456324741461537137
+    second: Walking Animation_941
+  - first:
+      213: 4593339603057172118
+    second: Walking Animation_942
+  - first:
+      213: -9174737159548116853
+    second: Walking Animation_943
+  - first:
+      213: 8875774434083571221
+    second: Walking Animation_944
+  - first:
+      213: 2877085123763743574
+    second: Walking Animation_945
+  - first:
+      213: 1724769832123463484
+    second: Walking Animation_946
+  - first:
+      213: -27341534631399473
+    second: Walking Animation_947
+  - first:
+      213: 1116787251706872166
+    second: Walking Animation_948
+  - first:
+      213: -5308304041414844624
+    second: Walking Animation_949
+  - first:
+      213: -9065732275180332700
+    second: Walking Animation_950
+  - first:
+      213: 187484662434851586
+    second: Walking Animation_951
+  - first:
+      213: -8945095382694263047
+    second: Walking Animation_952
+  - first:
+      213: 1102103849497049124
+    second: Walking Animation_953
+  - first:
+      213: 443703469670025888
+    second: Walking Animation_954
+  - first:
+      213: 3893964708420974860
+    second: Walking Animation_955
+  - first:
+      213: -5736473363351026799
+    second: Walking Animation_956
+  - first:
+      213: -7341653183961838325
+    second: Walking Animation_957
+  - first:
+      213: -4705190823124844896
+    second: Walking Animation_958
+  - first:
+      213: 7193470360734128867
+    second: Walking Animation_959
+  - first:
+      213: 1536534864685069472
+    second: Walking Animation_960
+  - first:
+      213: 5438826518069331451
+    second: Walking Animation_961
+  - first:
+      213: 5279078192149025473
+    second: Walking Animation_962
+  - first:
+      213: 969250581453802374
+    second: Walking Animation_963
+  - first:
+      213: 8165092207379925875
+    second: Walking Animation_964
+  - first:
+      213: 7608547438449194491
+    second: Walking Animation_965
+  - first:
+      213: -6419917614475708015
+    second: Walking Animation_966
+  - first:
+      213: 4797333273589509985
+    second: Walking Animation_967
+  - first:
+      213: -2824167449787656811
+    second: Walking Animation_968
+  - first:
+      213: -5971157122998632758
+    second: Walking Animation_969
+  - first:
+      213: -4023872061822550983
+    second: Walking Animation_970
+  - first:
+      213: 7326713429641033303
+    second: Walking Animation_971
+  - first:
+      213: -6043886326379789071
+    second: Walking Animation_972
+  - first:
+      213: 3235206199967603148
+    second: Walking Animation_973
+  - first:
+      213: -6751904264268935802
+    second: Walking Animation_974
+  - first:
+      213: -4543803588608347847
+    second: Walking Animation_975
+  - first:
+      213: 4059810130685680564
+    second: Walking Animation_976
+  - first:
+      213: 3320546098683720167
+    second: Walking Animation_977
+  - first:
+      213: 8160851628682178195
+    second: Walking Animation_978
+  - first:
+      213: -4432917580686739438
+    second: Walking Animation_979
+  - first:
+      213: -1170811196262793512
+    second: Walking Animation_980
+  - first:
+      213: -8023630366742827989
+    second: Walking Animation_981
+  - first:
+      213: -1395186598395552496
+    second: Walking Animation_982
+  - first:
+      213: 1804173649986166305
+    second: Walking Animation_983
+  - first:
+      213: 4743055413384661543
+    second: Walking Animation_984
+  - first:
+      213: 7434184788278001458
+    second: Walking Animation_985
+  - first:
+      213: 5650382728013257605
+    second: Walking Animation_986
+  - first:
+      213: -4694344720931334318
+    second: Walking Animation_987
+  - first:
+      213: -8699295713676685145
+    second: Walking Animation_988
+  - first:
+      213: -3540264454728624342
+    second: Walking Animation_989
+  - first:
+      213: 8943652970624487701
+    second: Walking Animation_990
+  - first:
+      213: -5607545302405708497
+    second: Walking Animation_991
+  - first:
+      213: 287789607845407263
+    second: Walking Animation_992
+  - first:
+      213: -8781791918921938436
+    second: Walking Animation_993
+  - first:
+      213: 5478662981998686289
+    second: Walking Animation_994
+  - first:
+      213: -1520920539084536689
+    second: Walking Animation_995
+  - first:
+      213: 3423180945991455911
+    second: Walking Animation_996
+  - first:
+      213: -7570942561965909243
+    second: Walking Animation_997
+  - first:
+      213: 8972681668205372423
+    second: Walking Animation_998
+  - first:
+      213: 2002528131426707954
+    second: Walking Animation_999
+  - first:
+      213: -3598349932849131339
+    second: Walking Animation_1000
+  - first:
+      213: -1551686594457109925
+    second: Walking Animation_1001
+  - first:
+      213: 4061009800049777135
+    second: Walking Animation_1002
+  - first:
+      213: -1044098578690631965
+    second: Walking Animation_1003
+  - first:
+      213: 3051226218116504843
+    second: Walking Animation_1004
+  - first:
+      213: 6157702451151196488
+    second: Walking Animation_1005
+  - first:
+      213: -8330128351041424128
+    second: Walking Animation_1006
+  - first:
+      213: -2777682277330428423
+    second: Walking Animation_1007
+  - first:
+      213: 8989460527269834869
+    second: Walking Animation_1008
+  - first:
+      213: -8702929964561185749
+    second: Walking Animation_1009
+  - first:
+      213: -4944586718086761807
+    second: Walking Animation_1010
+  - first:
+      213: 1742054945076894622
+    second: Walking Animation_1011
+  - first:
+      213: -5597958336563535058
+    second: Walking Animation_1012
+  - first:
+      213: 3915769523978287438
+    second: Walking Animation_1013
+  - first:
+      213: -4640497165327515794
+    second: Walking Animation_1014
+  - first:
+      213: -1340380781553674491
+    second: Walking Animation_1015
+  - first:
+      213: -4830605860508970616
+    second: Walking Animation_1016
+  - first:
+      213: -6455384870611281155
+    second: Walking Animation_1017
+  - first:
+      213: 6382157525364949937
+    second: Walking Animation_1018
+  - first:
+      213: -8631958720185935898
+    second: Walking Animation_1019
+  - first:
+      213: -3837061310919438855
+    second: Walking Animation_1020
+  - first:
+      213: -1574460571052872910
+    second: Walking Animation_1021
+  - first:
+      213: 5982801741910590896
+    second: Walking Animation_1022
+  - first:
+      213: 991237366912768948
+    second: Walking Animation_1023
+  - first:
+      213: 9038964050648363039
+    second: Walking Animation_1024
+  - first:
+      213: -1330764283703690464
+    second: Walking Animation_1025
+  - first:
+      213: 1626773305538250822
+    second: Walking Animation_1026
+  - first:
+      213: 2012249514910551150
+    second: Walking Animation_1027
+  - first:
+      213: 7976248202776381139
+    second: Walking Animation_1028
+  - first:
+      213: -6488595423694353140
+    second: Walking Animation_1029
+  - first:
+      213: 5320085061781967785
+    second: Walking Animation_1030
+  - first:
+      213: -4031040912183532970
+    second: Walking Animation_1031
+  - first:
+      213: -6371536389097495724
+    second: Walking Animation_1032
+  - first:
+      213: 7629860157833832490
+    second: Walking Animation_1033
+  - first:
+      213: -3801752251664374906
+    second: Walking Animation_1034
+  - first:
+      213: -8700359552921615691
+    second: Walking Animation_1035
+  - first:
+      213: 5620446111507238497
+    second: Walking Animation_1036
+  - first:
+      213: 8211138863293882072
+    second: Walking Animation_1037
+  - first:
+      213: -1338417865333117254
+    second: Walking Animation_1038
+  - first:
+      213: -3349398121357843063
+    second: Walking Animation_1039
+  - first:
+      213: 3960389873936239965
+    second: Walking Animation_1040
+  - first:
+      213: 5359698251466107480
+    second: Walking Animation_1041
+  - first:
+      213: 3319579270747843183
+    second: Walking Animation_1042
+  - first:
+      213: 5557769660110419744
+    second: Walking Animation_1043
+  - first:
+      213: -3462257581072471125
+    second: Walking Animation_1044
+  - first:
+      213: 5651732626602697416
+    second: Walking Animation_1045
+  - first:
+      213: 1823273909403811130
+    second: Walking Animation_1046
+  - first:
+      213: -2933644528947670207
+    second: Walking Animation_1047
+  - first:
+      213: 5536008450300814655
+    second: Walking Animation_1048
+  - first:
+      213: 3539028582963596663
+    second: Walking Animation_1049
+  - first:
+      213: 1312275893466355226
+    second: Walking Animation_1050
+  - first:
+      213: -3920129842935330083
+    second: Walking Animation_1051
+  - first:
+      213: 8093199682566495548
+    second: Walking Animation_1052
+  - first:
+      213: 7956196363908435741
+    second: Walking Animation_1053
+  - first:
+      213: 2650756978303518765
+    second: Walking Animation_1054
+  - first:
+      213: 3548917282634226162
+    second: Walking Animation_1055
+  - first:
+      213: 1310045809995425969
+    second: Walking Animation_1056
+  - first:
+      213: -6062938324451056004
+    second: Walking Animation_1057
+  - first:
+      213: 9008736253395773986
+    second: Walking Animation_1058
+  - first:
+      213: -2148066075985743502
+    second: Walking Animation_1059
+  - first:
+      213: -7176879522662954417
+    second: Walking Animation_1060
+  - first:
+      213: 3843939229006629089
+    second: Walking Animation_1061
+  - first:
+      213: 2984102655704892436
+    second: Walking Animation_1062
+  - first:
+      213: 2592375931934313100
+    second: Walking Animation_1063
+  - first:
+      213: -3546166549005137330
+    second: Walking Animation_1064
+  - first:
+      213: 3750180488862063312
+    second: Walking Animation_1065
+  - first:
+      213: -1028133997968510606
+    second: Walking Animation_1066
+  - first:
+      213: 2028894673633470458
+    second: Walking Animation_1067
+  - first:
+      213: 3383509392170868269
+    second: Walking Animation_1068
+  - first:
+      213: 2371137031495120026
+    second: Walking Animation_1069
+  - first:
+      213: -5245137652761065647
+    second: Walking Animation_1070
+  - first:
+      213: 4137391971276519446
+    second: Walking Animation_1071
+  - first:
+      213: 5949590140525178575
+    second: Walking Animation_1072
+  - first:
+      213: -2465174911121637900
+    second: Walking Animation_1073
+  - first:
+      213: -1588748384946730195
+    second: Walking Animation_1074
+  - first:
+      213: 339762301582971821
+    second: Walking Animation_1075
+  - first:
+      213: 1691698412247084532
+    second: Walking Animation_1076
+  - first:
+      213: 4367901614173682997
+    second: Walking Animation_1077
+  - first:
+      213: -3770672267280217012
+    second: Walking Animation_1078
+  - first:
+      213: -3218253585875153283
+    second: Walking Animation_1079
+  - first:
+      213: 8998907457093146263
+    second: Walking Animation_1080
+  - first:
+      213: 4854055144470529028
+    second: Walking Animation_1081
+  - first:
+      213: 8264920280998789966
+    second: Walking Animation_1082
+  - first:
+      213: 3446219645018936560
+    second: Walking Animation_1083
+  - first:
+      213: -4719215641579532185
+    second: Walking Animation_1084
+  - first:
+      213: -8998801549802619067
+    second: Walking Animation_1085
+  - first:
+      213: -7761794359990020330
+    second: Walking Animation_1086
+  - first:
+      213: -8344098806055108123
+    second: Walking Animation_1087
+  - first:
+      213: 7752248094605836020
+    second: Walking Animation_1088
+  - first:
+      213: -6730491522411091477
+    second: Walking Animation_1089
+  - first:
+      213: -2344014449899099644
+    second: Walking Animation_1090
+  - first:
+      213: 7115471049039159266
+    second: Walking Animation_1091
+  - first:
+      213: -3685428669010618431
+    second: Walking Animation_1092
+  - first:
+      213: -2943340853180379767
+    second: Walking Animation_1093
+  - first:
+      213: 7833126112215512422
+    second: Walking Animation_1094
+  - first:
+      213: -1972460267705028032
+    second: Walking Animation_1095
+  - first:
+      213: 206719406424040491
+    second: Walking Animation_1096
+  - first:
+      213: 2280860416577389932
+    second: Walking Animation_1097
+  - first:
+      213: 1203203710079197689
+    second: Walking Animation_1098
+  - first:
+      213: 1137758656751298133
+    second: Walking Animation_1099
+  - first:
+      213: 6792825015239795180
+    second: Walking Animation_1100
+  - first:
+      213: 5410329047053175420
+    second: Walking Animation_1101
+  - first:
+      213: 3209564840272667644
+    second: Walking Animation_1102
+  - first:
+      213: -7242510587826304024
+    second: Walking Animation_1103
+  - first:
+      213: -4995082318806779473
+    second: Walking Animation_1104
+  - first:
+      213: 8586841620106582955
+    second: Walking Animation_1105
+  - first:
+      213: -1370067236912536220
+    second: Walking Animation_1106
+  - first:
+      213: 2819307519543340671
+    second: Walking Animation_1107
+  - first:
+      213: -578349333740618423
+    second: Walking Animation_1108
+  - first:
+      213: -3816014069493037164
+    second: Walking Animation_1109
+  - first:
+      213: 7602333578054860356
+    second: Walking Animation_1110
+  - first:
+      213: -8445074993886721614
+    second: Walking Animation_1111
+  - first:
+      213: -5510641486447108447
+    second: Walking Animation_1112
+  - first:
+      213: -2002220374264851367
+    second: Walking Animation_1113
+  - first:
+      213: 5818557382264842934
+    second: Walking Animation_1114
+  - first:
+      213: -507488045379544654
+    second: Walking Animation_1115
+  - first:
+      213: -4771953698241130042
+    second: Walking Animation_1116
+  - first:
+      213: -2385526612597840122
+    second: Walking Animation_1117
+  - first:
+      213: 8224186365491850924
+    second: Walking Animation_1118
+  - first:
+      213: 1693168262323792548
+    second: Walking Animation_1119
+  - first:
+      213: 2383747543476818223
+    second: Walking Animation_1120
+  - first:
+      213: -8270600081427729828
+    second: Walking Animation_1121
+  - first:
+      213: -1841274876844989125
+    second: Walking Animation_1122
+  - first:
+      213: 7853095551234221168
+    second: Walking Animation_1123
+  - first:
+      213: -8732426436906421547
+    second: Walking Animation_1124
+  - first:
+      213: -2738440723806233613
+    second: Walking Animation_1125
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking Animation_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59efcdd7f0908ca0800000000000000
+      internalID: -6016649707914270372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Animation_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 26
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15693a2dccc4754d0800000000000000
+      internalID: -3145961372104026543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Animation_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 26
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a80956877087e270800000000000000
+      internalID: 8279727690787391654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Animation_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 26
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f5b8ed3f75cd40800000000000000
+      internalID: 5604025215206421412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Animation_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 26
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f0850a2e52a22a0800000000000000
+      internalID: -6761550235260416185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Walking Animation_4: -6761550235260416185
+      Walking Animation_2: 8279727690787391654
+      Walking Animation_0: -6016649707914270372
+      Walking Animation_1: -3145961372104026543
+      Walking Animation_3: 5604025215206421412
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

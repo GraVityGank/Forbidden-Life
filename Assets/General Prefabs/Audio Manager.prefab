@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6848087689921552120
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6848087689921552126}
+  - component: {fileID: 6848087689921552121}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6848087689921552126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6848087689921552120}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6848087689921552121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6848087689921552120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba43ce76be2b5ae498bbd58e57e887b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: BGM Theme
+    clip: {fileID: 8300000, guid: fe085b82bdfec1e45b0db125f08b7c7f, type: 3}
+    volume: 0.394
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Jump
+    clip: {fileID: 8300000, guid: 35aaba30146b3f74f9b1ed88810fb9aa, type: 3}
+    volume: 0.076
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Running
+    clip: {fileID: 8300000, guid: 42533257956d40246b43e090887c2820, type: 3}
+    volume: 0
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Digging
+    clip: {fileID: 8300000, guid: 974e6753829ce6d489db78c01e33980a, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Pickup
+    clip: {fileID: 8300000, guid: f5293c9ecc621c1429c5993afa1f282c, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Godsmack
+    clip: {fileID: 8300000, guid: 5237a9d3fb852034bb5c56c178b93ea7, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Hurt
+    clip: {fileID: 8300000, guid: 5b994e017260985468da75c6d8f468ec, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Regeneration
+    clip: {fileID: 8300000, guid: 146f30d762e3fed439d4864c1d48f46f, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Female Hurt
+    clip: {fileID: 8300000, guid: a4d41f3073494da4787d97da94e8fe55, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Gas
+    clip: {fileID: 8300000, guid: 5b282aac201b8304e8bc4a88f6ae20eb, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Blockboy Hurt
+    clip: {fileID: 8300000, guid: d12c611f6e41b2940b6f392ebdefacc9, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Death
+    clip: {fileID: 8300000, guid: a84173d398a69cd45a6e1a89f0797365, type: 3}
+    volume: 0.306
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
