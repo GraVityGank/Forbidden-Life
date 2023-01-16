@@ -2,7 +2,7 @@
 2D Endless Platformer for Android
 
 	
-![ALT](Images\Menu.jpg)
+![HTML logo](https://github.com/GraVityGank/Forbidden-Life/blob/main/Images/Menu.jpg)
 
 Dig through the earth as you try to avoid monsters and endure the harsh environment of the forbidden planet!
 
