@@ -2,7 +2,7 @@
 2D Endless Platformer for Android
 
 	
-![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+![alt text](Images\Menu.jpg)
 
 Dig through the earth as you try to avoid monsters and endure the harsh environment of the forbidden planet!
 
