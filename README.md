@@ -3,6 +3,8 @@
 
 	
 ![HTML logo](https://github.com/GraVityGank/Forbidden-Life/blob/main/Images/Menu.jpg)
+![HTML logo](https://github.com/GraVityGank/Forbidden-Life/blob/main/Images/Character%20Select.jpg)
+![HTML logo](https://github.com/GraVityGank/Forbidden-Life/blob/main/Images/Gameplay.jpg)
 
 Dig through the earth as you try to avoid monsters and endure the harsh environment of the forbidden planet!
 
